@@ -8,6 +8,7 @@ Base commune pour tous les travaux sur la caméra (issues #28 à #50 et suivante
 | [FLOWS.md](FLOWS.md) | diagrammes d'appels : vidéo, audio, PTZ, jour/nuit, détection, enregistrement, réseau, service Tuya, privacy |
 | [DP_TABLE.md](DP_TABLE.md) | les 67 commandes Tuya (numéro de DP → gestionnaire → `IPC_APP_*`) |
 | [MODULES.md](MODULES.md) | un module (fichier source) par ligne |
+| [../TOPICS.md](../TOPICS.md) | convention de topics MQTT de la passerelle locale (générée) |
 | [../FIRMWARE_COMMANDS.md](../FIRMWARE_COMMANDS.md) | les 311 fonctions `IPC_APP_*`/`ht_*` appelables en `LD_PRELOAD` |
 
 Tout est **généré** ; ne pas éditer à la main (sauf ce README).
